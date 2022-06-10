@@ -17,10 +17,9 @@ I am **Israel Péres**, a student of Computer Science at PUC-MG. I'm a big fan o
 
 </div>
 
-
 ### * 🖥️ **Currently using**
 
-<div align="">
+<div>
 
 [![Currently Using](https://skills.thijs.gg/icons?i=java,spring,python,html,css,js,mongodb&theme=dark)](https://skills.thijs.gg)
 
@@ -38,10 +37,10 @@ I am **Israel Péres**, a student of Computer Science at PUC-MG. I'm a big fan o
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 </div>
-
+<br>
 
 ### * 📜 **My Github Stats**
-<div style="display: flex; justify-content: center; padding-bottom: 15px">
+<div align="center" style="padding-bottom: 15px">
    <img width="70%" src="https://github-readme-stats.vercel.app/api?username=IsraP&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
